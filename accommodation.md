@@ -8,9 +8,12 @@ This part of the South coast is a long-standing seaside area, and there is plent
 
 AirBnB and other travel site users will find they have lots of choice, but there are alternative sources such as the [Discover Bexhill](https://www.discoverbexhill.com/accommodation/) web site. A web search for "bexhill accommodation" will also yield results for many smaller private hotels such as [The Northern Hotel](https://www.northernhotel.co.uk/stay/index.html) or [The Bay Hotel](https://www.thebayhotelpevensey.com).
 
-Hastings is ten minutes away by train but about 45 minutes by bus, so plan to use rail rather than road unless you are coming by car, in which case you have much more choice and flexibility.  Do check distances and transport options to make sure you don't spend too much time travelling. There are generally about three trains an hour both Eastbound and Westbound from Bexhill.
+Air travellers should aim for Gatwick if possible - there are direct trains to Bexhill, and it's much nearer than Heathrow or Stansted.
+There are generally about three trains an hour both Eastbound and Westbound from Bexhill, and two per hour to/from Central London and Gatwick.
+Hastings is ten minutes away by train but about 45 minutes by bus, so plan to use rail rather than road unless you are coming by car, in which case you have much more choice and flexibility.
+Do check distances and transport options to make sure you don't spend too much time travelling.
 
-Here are a few hotels relatively close to the venue and Bexhill Station (those two are less than ten minutes' walk apart) for those who prefer not to search. These aren't recommendations, and we have no relationship with any of the establishments.
+Here are a few hotels relatively close to the venue and Bexhill Station (which are about ten minutes' walk apart) for those who prefer not to search. These aren't recommendations, and we have no relationship with any of the establishments.
 
 ### Some Hotels Near Bexhill
 
