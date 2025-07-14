@@ -211,3 +211,8 @@ __marimo__/
 
 # Github pages local target?
 _site
+
+# DON'T PUBLISH THE GEM FILE
+Gemfile
+Gemfile.lock
+
