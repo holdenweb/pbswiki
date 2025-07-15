@@ -6,7 +6,7 @@ title: Advice for attendees
 If you have never attended an unconference before, this page should give you some idea what to expect.
 You can find the Wikipedia definition of "unconference" [here](https://en.wikipedia.org/wiki/Unconference).
 
-Have you notice how, when you go to a conference, the most interesting conversations often happen outside the organised sessions?
+Have you noticed how, when you go to a conference, the most interesting conversations often happen outside the organised sessions?
 Unconferences try to maximise the chances of those kinds of interactions.
 Perhaps you've been to PyCon open space sessions, which are based on very much the same ideas.
 
