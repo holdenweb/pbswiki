@@ -216,3 +216,6 @@ _site
 Gemfile
 Gemfile.lock
 
+# Ignore MacOS metadata
+.DS_Store
+
