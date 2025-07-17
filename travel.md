@@ -18,14 +18,21 @@ catch the London Underground Circle Line to Victoria then follow the rail instru
 
 ### By Rail
 
+Major stations still have ticket offices, as well as ticket machines.
+You can book in advance and collect your tickets from a machine
+(you may need the card you used to book),
+but neither of the routes below offer reservations.
+
 **From Victoria**
 Trains to Ore and Hastings go through Bexhill.
 You could also take the train to Eastbourne or Brighton,
 but this requires a change at Hampden Park
 where you need to cross the line via a footbridge or walk about half a mile. _~2 hrs_.
+[Book with Southern Railway](https://www.southernrailway.com/)
 
 **From Charing Cross or London Bridge**
-Take a train to Hastings or Ore, and change for Bexhill at St. Leonards Warrior Square. _~2 hrs 5_
+Take a train to Hastings or Ore, and change for Bexhill at St. Leonards Warrior Square. _~2 hrs 5_.
+[Book with SouthEastern](https://www.southeasternrailway.co.uk/)
 
 ### By Road
 
