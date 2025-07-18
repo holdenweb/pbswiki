@@ -1,2 +1,3 @@
-# pbswiki
-Support Wiki for Python by the Sea
+# Python by the Sea
+
+A friendly little unconference
