@@ -4,3 +4,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 remote_theme: pages-themes/slate@v0.2.0
+title: "Python by the Sea"
+description: "A friendly little unconference"
