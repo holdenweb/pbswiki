@@ -1,8 +1,15 @@
 .current-sec {
   color: white;
-  fornt-weight: 900;
+  font-weight: 900;
 }
 
 .other-sec {
   color: grey;
+}
+
+img[alt="pbts"] {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
