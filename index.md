@@ -4,7 +4,6 @@ title: pbts Wiki
 ---
 ![pbts](./assets/images/PyBySeaFriendly.png)
 
-This web site doesn't look like much at present, though it's gradually acquiring a style.
-Like the event itself it will grow organically, and all event participants will shape its content.
+This web site may not look like much at present, but like the event itself it will grow organically, shaped by all event participants..
 
-At present we just want to get information out as quickly as possible. Typographical sophistication can come later. Or not.
+At present we just want to get the early information out as quickly as possible.
